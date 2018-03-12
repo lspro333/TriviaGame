@@ -1,0 +1,35 @@
+body {
+	background: url("../images/crystal-1405272.jpg");
+}
+
+.container {
+    background-color: rgb(170, 170, 170);
+    border: 2px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.btn-primary,.reset{
+	background-color: #660e12;
+	color: white;
+	font-size: 30px;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: #2e082e;
+}
+
+.container{
+	margin-top: 50px;
+	text-align: center;
+	height: 120%;
+	width: 600px;
+}
+
+
+.thisChoice:hover{
+	background-color: #751623;
+	color: white;
+	padding: 10px;
+}
+
+
